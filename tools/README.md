@@ -21,6 +21,6 @@ jQueryMobile
 React
 -----
 
-[Find out](react.md), what you should know about this library.
+[Find out](react/README.md), what you should know about this library.
 
 

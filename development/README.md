@@ -4,3 +4,5 @@
 
 [Cloning a project](clone.md)
 
+[Frontend app structure](frontend.md)
+
