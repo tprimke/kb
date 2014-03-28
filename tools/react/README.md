@@ -16,4 +16,8 @@ Components can have properties. In this part, you'll learn how to use them.
 Now it's time to decompose the application into separate components.
 The blocks should be simple, remember?
 
+[Theory: The Data Flow Direction](theory-3a.md)
+
+Before we proceed to more interesting stuff, it's imortant to understand of the most essential principle of React's philosophy.
+
 
