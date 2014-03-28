@@ -52,9 +52,9 @@ Here is the template for the HTML test runner:
 
 The things to note:
 
-* The mocha and should js/css files should be downloaded from the local directory (I haven't found them on any CDN).
+* The mocha and should js/css files should be downloaded to the local directory (I haven't found them on any CDN).
 * After mocha JS file is loaded, the BDD tests style should be set (yes, it's a matter of my personal preference).
-* A single div of id set to "mocha" should be added to the document body.
+* A single `div` of id set to "mocha" should be added to the document body.
 
 The gulp test building task should be responsible for preparing the JS files and specs for the browser. (Be careful - in browser, no `require` will work, so the spec files shouldn't contain any `require` calls.)
 

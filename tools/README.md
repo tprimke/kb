@@ -9,7 +9,7 @@ First, [set up](nvm.md) the nvm.sh script.
 
 Then, [learn](nvm.md) how to use it.
 
-Then, [install](dev-modules.md) additional modules.
+Then, [install](dev-modules/README.md) additional modules.
 
 
 jQueryMobile
