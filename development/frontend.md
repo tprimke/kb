@@ -6,12 +6,12 @@ This document is based on ["Best Practice Recommendations for Angular App Struct
 
 In the main directory, only three files are present:
 
-  our-app/
-    index.html
-    app.js
-    app.css
-    components/
-    js/
+    our-app/
+      index.html
+      app.js
+      app.css
+      components/
+      js/
 
 The `index.html` file is the HTML document for our application. This document can load other JS/CSS files, including the files described below.
 
@@ -29,26 +29,26 @@ The `js` directory is for all the JavaScript files, which don't need processing 
 
 All the components should live in the `components` directory:
 
-  our-app/
-    index.html
-    app.js
-    app.css
-    components/
-      app.jsx
+    our-app/
+      index.html
+      app.js
       app.css
-      Component1/
-        component1.jsx
-        component1.css
-      Component2/
-        component2.jsx
-        component2.css
-      Component3/
-        component3.jsx
-        component3.css
-        Subcomponent1/
-          subcomponent.jsx
-          subcomponent.css        
-    js/
+      components/
+        app.jsx
+        app.css
+        Component1/
+          component1.jsx
+          component1.css
+        Component2/
+          component2.jsx
+          component2.css
+        Component3/
+          component3.jsx
+          component3.css
+          Subcomponent1/
+            subcomponent.jsx
+            subcomponent.css        
+      js/
 
 There are the `app.jsx` and `app.css` files in the `components` directory. The files are for the main application component.
 

@@ -2,6 +2,8 @@
 
 [Why React?](why.md)
 
+[A TODO app specification](theory-0a.md)
+
 [Tutorial 1: a TODO application](tutorial-1.md)
 
 From a static, HTML document, to a static, React, single-component application.
@@ -19,5 +21,9 @@ The blocks should be simple, remember?
 [Theory: The Data Flow Direction](theory-3a.md)
 
 Before we proceed to more interesting stuff, it's imortant to understand of the most essential principle of React's philosophy.
+
+[Tutorial 4: ]()
+
+It's time to make our form a stateful component. Slowly, step by step, towards a full TODO application.
 
 
